@@ -1,4 +1,8 @@
 oke netizen
 
+<<<<<<< HEAD
 Haii haii haloo jugaaa hilga
+=======
+Haii haii haloo jugaaa regaa
+>>>>>>> 44378e270bbdcab9f473ab95e0a52d9e72e1980c
 
