@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>BizPage Bootstrap Template</title>
+  <title>ISS 2018 - State Univesity of Malang</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -13,6 +13,7 @@
 
   <!-- Google Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i|Roboto+Mono:300,400,500|Google+Sans:300,400|Material+Icons|Google+Sans+Display:400,500">
+  
   <!-- Bootstrap CSS File -->
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -38,13 +39,6 @@
         $('.fancybox').fancybox();
       });
     </script>
-
-  <!-- =======================================================
-    Theme Name: BizPage
-    Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
 </head>
 
 <body>
@@ -56,7 +50,7 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto">BizPage</a></h1>
+        <h1><a href="#intro" class="scrollto">ISS</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
@@ -174,19 +168,17 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              State University of Malang <br/>
+              Jalan Semarang 5, <br/>
+              Malang 65145 Indonesia<br/>
+              <strong>Phone:</strong> (+62)341-584-759<br>
+              <strong>Email:</strong> oia@um.ac.id<br>
             </p>
 
             <div class="social-links">
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
 
           </div>
@@ -205,7 +197,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>BizPage</strong>. All Rights Reserved
+        &COPY; Copyright <strong>UM Office of International Affairs</strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--
@@ -214,7 +206,7 @@
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
         -->
-        Designed by <a href="https://www.google.com">BootstrapMade</a>
+        <!-- Designed by <a href="https://www.google.com">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- #footer -->

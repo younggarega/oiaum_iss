@@ -10,17 +10,17 @@
 
           <div class="col-md-4">
             <div class="contact-address">
-              <i class="ion-ios-location-outline"></i>
-              <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
+              <i class="ion-ios-telephone-outline"></i>
+              <h3>Phone Number</h3>
+              <p><a href="tel:+62341584759">(+62)341-584-759</a></p>
             </div>
           </div>
 
           <div class="col-md-4">
             <div class="contact-phone">
-              <i class="ion-ios-telephone-outline"></i>
-              <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+              <i class="ion-ios-location-outline"></i>
+              <h3>Address</h3>
+              <address>State University of Malang Jalan Semarang 5, Malang 65145 Indonesia</address>
             </div>
           </div>
 
@@ -28,16 +28,18 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@example.com</a></p>
+              <p><a href="mailto:oia@um.ac.id">oia@um.ac.id</a></p>
             </div>
           </div>
 
         </div>
 
+        <?php
+/*
         <div class="form">
           <div id="sendmessage">Your message has been sent. Thank you!</div>
           <div id="errormessage"></div>
-          <form action="" method="post" role="form" class="contactForm">
+          <form action="mailto:austinfascal@outlook.com" method="post" role="form" class="contactForm" enctype="text/plain">
             <div class="form-row">
               <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -59,6 +61,7 @@
             <div class="text-center"><button type="submit">Send Message</button></div>
           </form>
         </div>
-
+        */
+        ?>
       </div>
     </section><!-- #contact -->
